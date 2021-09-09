@@ -1,2 +1,2 @@
 # ScriptR
-lanches do MCDonalds
+analisando lanches do MCDonalds
