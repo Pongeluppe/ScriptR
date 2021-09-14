@@ -2,5 +2,5 @@
 
 Analisando os lanches do MCDonalds
 
-Uma empresa nos contratou para analisarmos quais os lanches que deverão ser selecionados para 2 propagandas distintas. O intuito é pegar os lanches mais saudaveis e o mais calorico para realizarmos essa propaganda com base nos dados
+Exercício: Uma empresa nos contratou para analisarmos quais os lanches que deverão ser selecionados para 2 propagandas distintas. O intuito é pegar o lanche mais saudável e o mais calórico para realizarmos essa propaganda com base nos dados.
 
